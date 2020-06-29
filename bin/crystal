@@ -1,5 +1,7 @@
 #!/bin/sh
 
+alias crystal=""
+
 ################## https://github.com/mkropat/sh-realpath #####################
 #
 # The MIT License (MIT)
